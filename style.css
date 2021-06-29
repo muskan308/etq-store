@@ -398,7 +398,10 @@ overflow: hidden;
     list-style:none;
     padding-bottom: 50px;
     }
-
+#sd{
+    padding: 0;
+    margin: 0;
+}
     .first img{
         width:100%;
     }

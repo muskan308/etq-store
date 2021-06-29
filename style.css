@@ -401,6 +401,7 @@ overflow: hidden;
 #sd{
     padding: 0;
     margin: 0;
+
 }
     .first img{
         width:100%;
@@ -547,7 +548,10 @@ width:110%;
     .right p{
 color:black;
     }
- 
+ #sd{
+     margin: 0;
+     padding: 0;
+ }
     .right button{
         background-color: transparent;
         border: 0;
@@ -607,15 +611,22 @@ color:black;
                         'div2 '
                          'div3 ' ;
 }
-
+#sd{
+    padding: 0;
+    margin: 0;
+}
 .third div div{
     width: 90%;
+ 
 }
 .third .div12{
     display: none;
 }
+.third{
+    margin-left: 2px;
+}
 .third h1{
-    padding: 0;
+    padding:30px;
     margin:0;
 }
 #p3{

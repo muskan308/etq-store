@@ -400,7 +400,7 @@ overflow: hidden;
     }
 #sd{
     position: relative;
-    top:-5px;
+    top:-10px;
 }
     .first img{
         width:100%;
@@ -583,7 +583,10 @@ color:black;
 #p2{
     display: none;
 }
-
+.fifth p{
+    font-size: 12px;
+    line-height: 20px;
+}
 }
 
                                       /*407px responsive*/
@@ -622,8 +625,8 @@ color:black;
     margin: 20px;
 }
 .fifth p{
-    font-size: 13px;
-    line-height: 20px;
+    font-size: 12px;
+    line-height: 18px;
 }
 }
  

@@ -398,10 +398,7 @@ overflow: hidden;
     list-style:none;
     padding-bottom: 50px;
     }
-#sd{
-    position: relative;
-    top:-20px;
-}
+
     .first img{
         width:100%;
     }

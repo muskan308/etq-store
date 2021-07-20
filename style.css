@@ -41,14 +41,24 @@ header{
         font-size: 30px;
      
     }
+
+    .hero{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100vw;
+    }
+
     header #ft{
         display:flex;
         color: white;
     }
+
     header li{
     padding-left: 20px;
     list-style:none;
     }
+
     header a{
         text-decoration: none;
         font-family: 'Nanum Myeongjo', serif;
@@ -359,6 +369,10 @@ width:110%;
     flex-direction: column;
 }
 
+.hero{
+    flex-direction: column;
+}
+
 #circle{
     display: none;
 }
@@ -552,6 +566,7 @@ color:black;
      margin: 0;
      padding: 0;
  }
+ 
     .right button{
         background-color: transparent;
         border: 0;
